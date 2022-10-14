@@ -1,5 +1,5 @@
-- 👋 Hi there, I’m @SaumyaSingh1
-- 👀 I’m interested in Software Development
+- 👋 Hi there, I’m **@SaumyaSingh1**
+- 👀 I’m interested in *Software Development*
 - 🌱 I’m currently learning Data Structure and Algorithm and Web Development
 
 
