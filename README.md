@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @SaumyaSingh1
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Struvture and Algorithm and web development
+- 🌱 I’m currently learning Data Structure and Algorithm and Web Development
 
 
 <!---
