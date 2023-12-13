@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m **@SaumyaSingh1**
-- 👀 I’m interested in *Software Development*
+- 👀 I’m interested in *Full Stack Development*
 - 🌱 I’m currently learning Data Structures and Algorithm and Web Development
 
 
