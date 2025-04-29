@@ -1,6 +1,7 @@
+
 - 👋 Hi there, I’m **@SaumyaSingh1**
-- 👀 I’m interested in *Full Stack Development*
-- 🌱 I’m currently learning Data Structures and Algorithm and Web Development
+- 👀 I’m interested in *Deep Learning*, *Graphics Desiging*
+- 🌱 I’m currently looking for opportunities in the field of Deep Learning and Graphics Designing
 
 
 <!---
